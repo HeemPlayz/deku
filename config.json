@@ -1,5 +1,5 @@
 {
-    "discord": "DISCORD_TOKEN",
+    "discord": "process.env.BOT_TOKEN",
     "osu": "OSU_API_KEY",
     "trello_key": "TRELLO_API_KEY",
     "trello_token": "TRELLO_USER_TOKEN",
